@@ -9,8 +9,7 @@
     "title website"
     "image paragraph"
     "image paragraph"
-    "frame paragraph"
-    
+    "frame paragraph";    
 }
 
 .places__place:nth-child(1){
@@ -37,7 +36,7 @@
             "title website"
             "image paragraph"
             "frame paragraph"
-            ". paragraph"
+            ". paragraph";
     }
 
     .places__place:nth-child(1){
@@ -68,8 +67,7 @@
             "paragraph"
             "paragraph"
             "paragraph"
-            "frame"
-
+            "frame";
     }
 
     .places__place:nth-child(1){
