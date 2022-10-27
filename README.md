@@ -1,19 +1,27 @@
 # Project 3: De patria a patria
 ### Descripción general    
 * Introducción  
-* Figma  
-* Imágenes  
+* Proyecto 
+* Próximamente
   
 **Introducción**    
   
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
+Proyecto del sprint 3 de Practicum usando HTML y CSS. Contiene una sola página web dividida en 6 distintos bloques y uso de media queries para pantallas de 320px y 768px. Se usan metodologías tales como: 
+
+* Display Flex y Grid
+* Media Queries
+* Opacidad
   
-**Figma**  
+**Proyecto**  
   
-* [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
+* [Enlace al Proyecto 3](https://carlosagc96.github.io/web_project_3_esp/)  
   
-**Imágenes**  
+**Próximamente**  
   
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido.   
+Los siguientes procedimientos a realizar para mejorar el contenido y visualización de la página son:
+
+* Agregar media queries para tamaños de pantalla de 540px y 960px.
+* Añadir nuevas ciudades en la seccion de place
+* Agregar efectos hover a las imagenes.
   
-¡Mucha suerte y que te lo pases bien! 
+¡Gracias por su atención! 
