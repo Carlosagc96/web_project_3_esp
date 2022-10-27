@@ -1,4 +1,4 @@
-.places__place_title{
+.places__place-title{
     font-family: 'Inter';
     font-style: normal;
     font-size: 72px;
@@ -8,12 +8,12 @@
     grid-area: title;
 }
 
-.places__place_title h4{
+.places__place-title h4{
     width: 584px;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
-    .places__place_title {
+    .places__place-title {
         width: 340px;
         font-size: 42px;
         line-height: 46px;
@@ -21,7 +21,7 @@
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px){
-    .places__place_title {
+    .places__place-title {
         width: 288px;
         font-size: 32px;
         line-height: 35px;
