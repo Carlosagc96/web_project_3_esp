@@ -1,4 +1,4 @@
-.grupo__paragraph{
+.cover__grupo-paragraph{
     width: 158px;
     height: 22px;
     font-family: 'Inter';
@@ -13,6 +13,6 @@
     margin: 0 auto auto;
 }
 
-.grupo__paragraph:hover{
+.cover__grupo-paragraph:hover{
     background-color: rgba(0, 99, 210, 0.8);
 }

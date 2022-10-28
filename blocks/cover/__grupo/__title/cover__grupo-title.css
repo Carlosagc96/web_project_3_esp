@@ -1,4 +1,4 @@
-.grupo__title{
+.cover__grupo-title{
     font-family: 'Inter';
     font-style: normal;
     font-size: 72px;
@@ -12,13 +12,13 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
-    .grupo__title{
+    .cover__grupo-title{
         margin: 0 0 32px;
     }
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px){
-    .grupo__title{
+    .cover__grupo-title{
         width: 288px;
         height: 35px;
         font-size: 32px;
