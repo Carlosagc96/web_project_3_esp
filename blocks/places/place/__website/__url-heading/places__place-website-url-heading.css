@@ -1,26 +1,25 @@
-.places__place-website-url-heading{
-    width: 58px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-size: 12px;
-    line-height: 15px;
-    color: #aaaa;
-    font-weight: 400;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
-    margin-bottom: 8px;
+.places__place-website-url-heading {
+  width: 58px;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #aaaa;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  margin-bottom: 8px;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
-    .places__place-website-url-heading {
-        width: 67px;
-        
-    }
+  .places__place-website-url-heading {
+    width: 67px;
+  }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px){
-    .places__place-website-url-heading {
-        width: 288px;
-        margin: 0 auto 8px;
-    }
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__place-website-url-heading {
+    width: 288px;
+    margin: 0 auto 8px;
+  }
 }

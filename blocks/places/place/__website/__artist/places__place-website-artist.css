@@ -1,26 +1,25 @@
-.places__place-website-artist{
-    width: 456px;
-    font-family: 'Inter';
-    font-style: normal;
-    font-size: 18px;
-    line-height: 22px;
-    color: #ffff;
-    font-weight: 400;
+.places__place-website-artist {
+  width: 456px;
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffff;
+  font-weight: 400;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
-    .places__place-website-artist {
-        width: 295px;
-        
-    }
+  .places__place-website-artist {
+    width: 295px;
+  }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px){
-    .places__place-website-artist {
-        width: 288px;
-        margin: 0 auto;
-    }
-    .places__place-website-artist:last-child {
-        margin: 0 auto 30px;
-    }
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__place-website-artist {
+    width: 288px;
+    margin: 0 auto;
+  }
+  .places__place-website-artist:last-child {
+    margin: 0 auto 30px;
+  }
 }

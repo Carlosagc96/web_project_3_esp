@@ -1,31 +1,31 @@
-.cover__grupo-subtitle{
-    margin: 0 auto 45px;
+.cover__grupo-subtitle {
+  margin: 0 auto 45px;
 }
 
-.cover__grupo-subtitle h3{
-    font-family: 'Inter';
-    font-style: normal;
-    font-size: 18px;
-    line-height: 22px;
-    color: #ffff;
-    font-weight: 400;
-    width: 280px;
-    text-align: center;
+.cover__grupo-subtitle h3 {
+  font-family: "Inter";
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffff;
+  font-weight: 400;
+  width: 280px;
+  text-align: center;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
-    .cover__grupo-subtitle h3{
-        margin: 0;
-    }
+  .cover__grupo-subtitle h3 {
+    margin: 0;
+  }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px){
-    .cover__grupo-subtitle h3{
-        width: 280px;
-        font-size: 14px;
-        line-height: 16px;
-    }
-    .cover__grupo-subtitle{
-        margin-bottom: 16px;
-    }
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .cover__grupo-subtitle h3 {
+    width: 280px;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .cover__grupo-subtitle {
+    margin-bottom: 16px;
+  }
 }

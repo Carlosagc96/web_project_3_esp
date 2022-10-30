@@ -1,44 +1,46 @@
-body{
-    background-color: #2a2c2f;
+body {
+  background-color: #2a2c2f;
 }
 
-h1{
-    margin: 0;
-    color: #ffff;
+h1 {
+  margin: 0;
+  color: #ffff;
 }
 
-h2{
-    margin: 0;
-    color: #ffff;
+h2 {
+  margin: 0;
+  color: #ffff;
 }
 
-h3{
-    margin: 0;
-    color: #ffff;
+h3 {
+  margin: 0;
+  color: #ffff;
 }
 
-h4{
-    margin: 0;
-    color: #ffff;
+h4 {
+  margin: 0;
+  color: #ffff;
 }
 
-p{
-    margin: 0;
-    color: #ffff;
+p {
+  margin: 0;
+  color: #ffff;
 }
 
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1279px){
-    .page {
-        width: 768px;
-    }
-} 
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .page {
+    width: 768px;
+    margin: 0 auto;
+  }
+}
 
-@media screen and (min-width: 320px) and (max-width: 767px){
-    .page {
-        width: 320px;
-    }
-} 
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .page {
+    width: 320px;
+    margin: 0 auto;
+  }
+}
